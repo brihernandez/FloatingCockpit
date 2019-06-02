@@ -4,7 +4,7 @@ A kinda novel alternative ~~solution~~ workaround to the problem of floating poi
 
 ![Image](Screenshots/floating.gif)
 
-Made in Unity version 2018.2.21f1
+This project was built in Unity **2018.2.21f1**.
 
 ## Download
 
